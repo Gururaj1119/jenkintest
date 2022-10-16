@@ -1,0 +1,1 @@
+echo "Project status: In Monitor stage"
